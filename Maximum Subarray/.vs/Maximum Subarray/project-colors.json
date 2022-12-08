@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b290270-0c68-4114-92b9-523a0914b24f": {
+      "ProjectGuid": "2b290270-0c68-4114-92b9-523a0914b24f",
+      "DisplayName": "Maximum Subarray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
