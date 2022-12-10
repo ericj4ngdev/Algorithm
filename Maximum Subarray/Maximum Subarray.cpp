@@ -2,6 +2,19 @@
 #include <vector>
 using namespace std;
 
+
+int Max_Subarr(vector<int> arr, int n) {
+
+    int psum = 0;
+    int max_val = -999;
+    for (int i = 0; i < n; i++) {
+        psum = max(0, psum) + arr[i];
+        max_val = max(max_val, psum);
+    }
+
+    return max_val;
+}
+
 int main()
 {
     int T;
@@ -15,13 +28,7 @@ int main()
         {
             cin >> arr[j];
         }
-        int psum = 0;
-        int max_val = -999;
-        for (int i = 0; i < N; i++) {
-            psum = max(0, psum) + arr[i];
-            max_val = max(max_val, psum);
-        }
-        cout << max_val << endl;
+        cout << Max_Subarr(arr,N) << endl;
     }
 
     return 0;
