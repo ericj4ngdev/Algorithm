@@ -1,0 +1,3 @@
+﻿  Matrix.cpp
+C:\GitHub\Algorithm\Matrix\Matrix.cpp(7,18): warning C4101: 'minval' :참조되지 않은 지역 변수입니다.
+  Matrix.vcxproj -> C:\GitHub\Algorithm\Matrix\x64\Debug\Matrix.exe

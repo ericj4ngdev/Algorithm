@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8405c556-601c-42d0-88b4-aabab22f96cd": {
+      "ProjectGuid": "8405c556-601c-42d0-88b4-aabab22f96cd",
+      "DisplayName": "LongestIncreasingSubsequence",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

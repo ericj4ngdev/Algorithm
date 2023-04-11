@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb17082d-33e1-42aa-85b7-8ef4559e2d1b": {
+      "ProjectGuid": "cb17082d-33e1-42aa-85b7-8ef4559e2d1b",
+      "DisplayName": "Floyd-Warshall Algorithm",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

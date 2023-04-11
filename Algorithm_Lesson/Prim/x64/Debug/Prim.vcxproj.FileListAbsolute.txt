@@ -1,0 +1,2 @@
+D:\algorithm_Lesson\Prim\x64\Debug\Prim.exe
+E:\GitHub\Algorithm\Prim\x64\Debug\Prim.exe

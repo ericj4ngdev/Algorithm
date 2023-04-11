@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ff31595-02fa-4f15-a9b5-e862b6de9c6e": {
+      "ProjectGuid": "7ff31595-02fa-4f15-a9b5-e862b6de9c6e",
+      "DisplayName": "EditDistance",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
