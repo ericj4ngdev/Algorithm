@@ -33,6 +33,9 @@
         "xloctime": "cpp",
         "iostream": "cpp",
         "xutility": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "ios": "cpp",
+        "queue": "cpp",
+        "ostream": "cpp"
     }
 }

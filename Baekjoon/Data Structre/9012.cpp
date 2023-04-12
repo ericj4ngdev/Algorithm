@@ -2,9 +2,9 @@
 using namespace std;
 
 string solve(string str)
-{
+{    
     stack<char> st;
-    
+
     for (int i = 0; i < str.size(); i++)
     {
         if(str[i] == '(') st.push('(');
@@ -19,7 +19,8 @@ string solve(string str)
 
 int main(){
     ios::sync_with_stdio(false);
-    cin.tie(0);
+    cin.tie(0); 
+    freopen("input.txt", "r", stdin);
 
     int T = 0; cin >> T;
     while (T--)
