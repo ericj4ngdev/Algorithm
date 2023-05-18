@@ -1,19 +1,10 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main()
 {
-    cout << "A : ";
-    int A; 
-    string str = " ";
-    
-    cin >> A;
-    str = A + '0';
-    cout << "str : " << str << "\n";
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
 
-    // cout << "str입력 : ";
-    // cin >> str;
-    // A = str[1] - '0';
-    // cout << "A : " << A << "\n";
 }
